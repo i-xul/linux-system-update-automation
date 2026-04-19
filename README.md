@@ -54,3 +54,8 @@ This repository is based on a real maintenance script adapted into a public exam
 AI tools (ChatGPT) were used for idea exploration, debugging, and documentation support. The final workflow was tested and adjusted manually in a real environment.
 
 Sensitive information such as system-specific paths, repositories, and configuration details has been removed from this public version.
+
+## Repository Structure
+
+- `scripts/` – system maintenance and update automation scripts
+- `docs/` – project notes and supporting documentation
