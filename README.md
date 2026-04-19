@@ -59,3 +59,13 @@ Sensitive information such as system-specific paths, repositories, and configura
 
 - `scripts/` – system maintenance and update automation scripts
 - `docs/` – project notes and supporting documentation
+
+## Next Steps
+
+Possible future improvements:
+
+- support for scheduled execution (cron/systemd timers)
+- logging to file instead of console output
+- email or messaging notifications for update results
+- selective update modes (e.g. only Docker or only APT)
+- dry-run mode for safer execution
